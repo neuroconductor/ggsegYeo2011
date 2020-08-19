@@ -22,5 +22,5 @@ BugReports: https://github.com/LCBC-UiO/ggsegYeo2011/issues
 biocViews:
 Repository: Neuroconductor
 Remotes:  
-    neuroconductor/ggseg@498f086e0707782dce3f086079f11c4f289dc26b,
-    neuroconductor/ggseg3d@3db3be2dfc69b171c72faf87cee7e4941a976fe4
+    neuroconductor/ggseg@86f946946157221e378ed764b3cd59e880b5af92,
+    neuroconductor/ggseg3d@104047f359511a37d85ffb75cb2489e357e8d5dc
